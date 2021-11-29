@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mjcvfQF/XjNRlrQoLuuc/QaW5dCB02wwlPaae0UFRlOj2B18jXOYZf1WG1omNppfIMST5Nkl0e5aSz5NVzVH1g==",
+  "dgSpecHash": "fFSZu1IBgl668Z7gW3YDZv24p2aBLynIxwDA0lfGTdRV3Zf4IuoYiQ4zapW7aEDH7sgB93LFvGMJPN8q7W9fCw==",
   "success": true,
   "projectFilePath": "/home/alvaroico/dev/MiniTodo/MiniTodo.csproj",
   "expectedPackageFiles": [
+    "/home/alvaroico/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512",
     "/home/alvaroico/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/alvaroico/.nuget/packages/microsoft.data.sqlite.core/6.0.0/microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
     "/home/alvaroico/.nuget/packages/microsoft.entityframeworkcore/6.0.0/microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
