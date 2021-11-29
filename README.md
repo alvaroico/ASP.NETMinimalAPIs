@@ -35,3 +35,9 @@ dotnet ef database update
 ```
 dotnet add package Flunt
 ```
+
+Documenta a API com 
+
+```
+dotnet add package Swashbuckle.AspNetCore -v 6.2.3
+```
