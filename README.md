@@ -1,10 +1,25 @@
-dotnet new web -o MiniTodo
+Criar diretorio WEB
 
-dotnet run 
+```dotnet new web -o MiniTodo```
 
-dotnet watch run
+Rodar Prod
 
+```dotnet run ```
+
+Rodar Dev
+
+```dotnet watch run```
+
+Add Pacote
+
+```
 dotnet add package Microsoft.EntityFrameworkCore.SqLite
 
-
 dotnet add package Microsoft.EntityFrameworkCore.Design
+```
+
+Criar Migration
+
+```
+dotnet ef migrations add InitialCreation
+```
