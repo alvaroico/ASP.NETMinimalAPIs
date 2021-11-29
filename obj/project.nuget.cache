@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Jxe1kEGZ1u6Ncv4+ciTNDVF3F7PgICcaSjbKjNYfCRQ/JSeG5EfwaUmGAVyz92a9gY+AT74vYIe6r+y5+w0Yg==",
+  "success": true,
+  "projectFilePath": "/home/alvaroico/dev/MiniTodo/MiniTodo.csproj",
+  "expectedPackageFiles": [
+    "/home/alvaroico/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
