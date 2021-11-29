@@ -21,5 +21,7 @@ dotnet add package Microsoft.EntityFrameworkCore.Design
 Criar Migration
 
 ```
+dotnet tool install --global dotnet-ef
+
 dotnet ef migrations add InitialCreation
 ```
